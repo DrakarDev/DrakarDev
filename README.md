@@ -1,21 +1,21 @@
 # Hey there! I'm DrakarDev 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Roblox+ScriptHub+Owner;C%2B%2B+%26+Lua+Specialist;Reverse+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Developer+Tools+Creator;C%2B%2B+%26+C%23+Specialist;Automation+Engineer" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💫 About Me
 
-I am a passionate **Software Engineer** specializing in system-level programming, reverse engineering, and game scripting. I love crafting high-performance scripts, automating tasks, and building premium UI/UX frameworks that stand out.
+I am a passionate **Software Engineer** specializing in system-level programming, desktop application development, and developer tooling. I focus on building high-performance, clean, and reliable software that solves real workflow problems.
 
-Currently, I am the **Owner & Lead Developer** of a premium **Roblox ScriptHub**, focusing on:
-- 🚀 **High-performance Lua execution** and optimized game scripts.
-- 🎨 **Modern UI/UX wrappers** (including fully customized versions of the **Fluent** design system like **FluentPro**).
-- 🔍 **Advanced Automation & ESP systems** (specialized farming tools, ESP overlays, and multi-threaded systems).
+Currently the **Owner & Lead Developer** of **Aether Systems**, a software brand focused on:
+- 🚀 **Developer automation utilities** and productivity tools.
+- 🎨 **Modern UI/UX** with clean, minimal design systems.
+- 🔧 **License management systems** with time-based access control and cloud validation.
 
-I enjoy bridging the gap between low-level optimization (C++) and high-level scripting (Lua, Python, C#) to build fast, robust, and clean code.
+I enjoy building across the stack, from low-level C++ to high-level C# desktop apps and Python automation scripts.
 
 ---
 
@@ -50,10 +50,10 @@ I enjoy bridging the gap between low-level optimization (C++) and high-level scr
 </p>
 
 #### **Specialties**
-- **Low-Level Dev & Reverse Engineering**: Memory scanning, DLL injection, pointer manipulation, and disassembly in C++.
-- **Roblox Exploiting & Scripting**: Advanced Lua VM environments, custom UI integration, network/remote call optimization, and game automation.
-- **UI/UX Design**: Creating stunning visual interfaces using glassmorphism, responsive elements, and custom design libraries.
-- **Automation**: Developing custom web scrapers, automated macro systems, and discord integration bots using Python and C#.
+- **Systems Programming**: Memory management, DLL development, and low-level C++ tooling.
+- **Desktop Applications**: Full-featured Windows apps in C# with modern UI frameworks.
+- **License & Access Systems**: Cloud-validated time-based licensing, key generation, and user management.
+- **Automation**: Custom macro systems, workflow automation, and Discord bot integrations using Python and C#.
 
 ---
 
@@ -76,7 +76,8 @@ I enjoy bridging the gap between low-level optimization (C++) and high-level scr
 ### 🤝 Let's Connect
 
 - **GitHub Profile**: [@DrakarDev](https://github.com/DrakarDev)
-- **Discord**: Reach out to me for business inquiries, Lua collaborations, or custom script developments!
+- **Website**: [synerox.cc](https://synerox.cc)
+- **Discord**: Available for business inquiries, collaborations, or custom development work.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DrakarDev&color=00E6FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
