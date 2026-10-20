@@ -65,12 +65,6 @@ I enjoy building across the stack, from low-level C++ to high-level C# desktop a
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/DrakarDev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrakarDev&layout=compact&theme=tokyonight" alt="Top Langs" />
-  </a>
-</p>
-
 ---
 
 ### 🤝 Let's Connect
